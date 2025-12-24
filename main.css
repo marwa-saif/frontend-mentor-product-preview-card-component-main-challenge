@@ -69,7 +69,7 @@ img {
     .container {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 12em auto 5em;
+        margin: 11em auto 5em;
     }
 
         img {
@@ -167,4 +167,5 @@ img {
     color: var(--green-700);
     font-weight: var(--bold);
     font-style: italic;
+
 }
