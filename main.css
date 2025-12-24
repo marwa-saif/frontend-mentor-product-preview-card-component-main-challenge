@@ -69,7 +69,7 @@ img {
     .container {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 10em auto 5em;
+        margin: 12em auto 5em;
     }
 
         img {
@@ -78,7 +78,7 @@ img {
 }
 
 .product-info {
-    padding: 1.875em;
+    padding: 1.8em 2em;
     background-color: var(--white);
     
 }
@@ -110,6 +110,10 @@ img {
 }
 
 .product-name {
+    margin-top: 0.5em;
+}
+
+.product-name {
     color: var(--black);
 }
 
@@ -131,7 +135,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0.8em 0;
+    padding: 0.9em 0;
     border-radius: 10px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
