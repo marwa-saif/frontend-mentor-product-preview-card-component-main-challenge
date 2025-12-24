@@ -78,7 +78,7 @@ img {
 }
 
 .product-info {
-    padding: 1.8em 2em;
+    padding: 1.8em 2em 1.6em;
     background-color: var(--white);
     
 }
@@ -169,3 +169,4 @@ img {
     font-style: italic;
 
 }
+
