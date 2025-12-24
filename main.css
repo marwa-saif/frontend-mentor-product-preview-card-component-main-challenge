@@ -48,7 +48,7 @@ img {
 }
 
 .container {
-    width: max(350px, 40%);
+    width: max(350px, 42%);
     margin: 5em auto;
     overflow: hidden;
     border-radius: 10px;
@@ -69,7 +69,7 @@ img {
     .container {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 15em auto 5em;
+        margin: 10em auto 5em;
     }
 
         img {
